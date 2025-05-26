@@ -9,5 +9,5 @@ A disease trajectory model for Multiple Sclerosis (MS) developed using Syntheaâ€
 
 ### Attention
 
-Please note that due to floating-point precision, some numeric values in the model (e.g., probabilities) may appear with excessively long decimal places. These are not input errors but the result of how floating-point numbers are handled in the model. This may  cause slight visual inconsistencies when reviewing or editing the '.json' file.
+Please note that due to floating-point precision, some numeric values in the model (e.g., probabilities) may appear with excessively long decimal places. These are not input errors but the result of how floating-point numbers are handled in the model. This may  cause slight visual inconsistencies when reviewing or editing the `.json` file.
 
